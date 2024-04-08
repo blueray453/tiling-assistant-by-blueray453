@@ -1,0 +1,12 @@
+{
+  "uuid": "tiling-assistant-by-blueray453",
+  "name": "Tiling Assistant by blueray453",
+  "description": "Fork of https://github.com/Leleat/Tiling-Assistant for educational purpose",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "url": "https://github.com/blueray453/tiling-assistant-by-blueray453"
+}
